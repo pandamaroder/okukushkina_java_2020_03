@@ -1,13 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e03bf3da-b185-4c9f-a6be-371eb006c657" name="Default Changelist" comment="" />
+    <list default="true" id="e03bf3da-b185-4c9f-a6be-371eb006c657" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/L01-gradle">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="okukushkina_java_2020_03" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="okukushkina_java_2020_03" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="okukushkina_java_2020_03" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="okukushkina_java_2020_03" type="f1a62948:ProjectNode" />
+                <item name="buildSrc" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="okukushkina_java_2020_03" type="f1a62948:ProjectNode" />
+                <item name="buildSrc" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="okukushkina_java_2020_03" type="f1a62948:ProjectNode" />
+                <item name="buildSrc" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="okukushkina_java_2020_03" type="f1a62948:ProjectNode" />
+                <item name="buildSrc" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="okukushkina_java_2020_03" type="f1a62948:ProjectNode" />
+                <item name="L01-gradle" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="okukushkina_java_2020_03" type="f1a62948:ProjectNode" />
+                <item name="L01-gradle" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="okukushkina_java_2020_03" type="f1a62948:ProjectNode" />
+                <item name="L01-gradle" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="main" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="okukushkina_java_2020_03" type="f1a62948:ProjectNode" />
+                <item name="L01-gradle" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="okukushkina_java_2020_03" type="f1a62948:ProjectNode" />
+                <item name="L01-gradle" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="HW01_gradle" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1a2uBUm70qLors5jhoPH7BPD3XM" />
@@ -19,7 +129,70 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/L01-gradle" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\okukushkina\IdeaProjects\java_2020_03\okukushkina_java_2020_03\L01-gradle\src\main\java\ru\otus" />
+      <recent name="C:\Users\okukushkina\IdeaProjects\java_2020_03\okukushkina_java_2020_03" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\okukushkina\IdeaProjects\java_2020_03\okukushkina_java_2020_03\L01-gradle" />
+      <recent name="C:\Users\okukushkina\IdeaProjects\java_2020_03\okukushkina_java_2020_03" />
+      <recent name="C:\Users\okukushkina\IdeaProjects\java_2020_03\okukushkina_java_2020_03\buildSrc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.okukushkina_java_2020_03 [clean]">
+    <configuration name="okukushkina_java_2020_03 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="okukushkina_java_2020_03 [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.okukushkina_java_2020_03 [clean]" />
+        <item itemvalue="Gradle.okukushkina_java_2020_03 [build]" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,6 +205,100 @@
       <option name="presentableId" value="Default" />
       <updated>1585945874729</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1585945982737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585945982737</updated>
+    </task>
+    <task id="LOCAL-00002" summary="HomeWork 0,5 (with no changes to gradle )">
+      <created>1585950567945</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585950567945</updated>
+    </task>
+    <task id="LOCAL-00003" summary="HomeWork 0,5">
+      <created>1585951189621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585951189621</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework for the FirstLesson">
+      <created>1586126394101</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586126394101</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <MESSAGE value="HomeWork 0,5 (with no changes to gradle )" />
+    <MESSAGE value="HomeWork 0,5" />
+    <MESSAGE value="Homework for the FirstLesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework for the FirstLesson" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="40" key="#Project_Structure" timestamp="1586124808355">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="277" y="40" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1586124808355" />
+    <state x="590" y="222" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585946417609">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="590" y="222" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1585946417609" />
+    <state x="322" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1585946414787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="322" y="0" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1366.728@0.0.1366.728" timestamp="1585946414787" />
+    <state x="224" y="0" key="CommitChangelistDialog2" timestamp="1586126392630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="224" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586126392630" />
+    <state x="522" y="100" key="FileChooserDialogImpl" timestamp="1586121435407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="522" y="100" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586121435407" />
+    <state width="1286" height="155" key="GridCell.Tab.0.bottom" timestamp="1586125469028">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586125469028" />
+    <state width="1286" height="155" key="GridCell.Tab.0.center" timestamp="1586125469027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586125469027" />
+    <state width="1286" height="155" key="GridCell.Tab.0.left" timestamp="1586125469027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586125469027" />
+    <state width="1286" height="155" key="GridCell.Tab.0.right" timestamp="1586125469027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="155" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586125469027" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1586124955301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586124955301" />
+    <state x="277" y="103" key="Vcs.Push.Dialog.v2" timestamp="1585951209666">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="277" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1585951209666" />
+    <state x="380" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1585946542713">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="205" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585946542713" />
+    <state x="131" y="0" key="new project wizard" timestamp="1586124223966">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="131" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586124223966" />
+    <state x="341" y="166" key="run.anything.popup" timestamp="1585946720462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="341" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585946720462" />
   </component>
 </project>
