@@ -33,5 +33,5 @@ allprojects {
 
 //gradle -q hello
 task hello {
-    println 'I am the first Gradle Project made by Olya!'
+    println 'I am the first Gradle Project made by Olya'
 }

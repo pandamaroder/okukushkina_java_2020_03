@@ -13,7 +13,7 @@ dependencies {
 }
 
 shadowJar {
-    archiveBaseName.set('gradleTestProject')
+    archiveBaseName.set('gradleProject')
     archiveVersion.set('0.1')
     archiveClassifier.set('')
     manifest {

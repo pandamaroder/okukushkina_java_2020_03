@@ -10,4 +10,4 @@ olya-kukushkina@yandex.ru<br>
 ## Pull-requsts  :)
 
 Добавлен модуль L01- gradle 
-Созданы (скопированы, но правильно!) build.gradle 
+Созданы build.gradle файлы для тестовых модулей
